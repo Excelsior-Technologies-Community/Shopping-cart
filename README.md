@@ -42,6 +42,7 @@ src/
 
 ## 🚀 Getting Started
 ## screenshot
+
 1.homepage
 ![Screenshot_5-12-2025_13523_localhost](https://github.com/user-attachments/assets/85d77d9e-4574-4cfd-8a3b-4e2f01662bc2)
 
