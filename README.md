@@ -38,7 +38,6 @@ src/
 |--README.md
 ```
 
----
 
 ## 🚀 Getting Started
 ## screenshot
