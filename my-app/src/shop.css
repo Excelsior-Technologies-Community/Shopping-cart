@@ -1,0 +1,39 @@
+.shop-container {
+  text-align: center;
+  padding: 40px 40px ;
+  box-shadow: 0 3px 20px rgba(0,0,0,0.8);
+}
+
+.shop-title {
+  font-size: 50px;
+  font-weight: 800;
+  color: #1f2d3d;
+  margin-bottom: 30px;
+}
+
+/* Add Item button new color (Purple) */
+.add-btn {
+  background: #0099ff;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  transition: 0.2s;
+}
+
+.add-btn:hover {
+  background: #2c64ff;
+  transform: scale(1.05);
+}
+
+/* Total box */
+.total-box {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 30px;
+  color: #111;
+}
